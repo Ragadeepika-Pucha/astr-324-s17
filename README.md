@@ -12,8 +12,7 @@
 ## Class Materials
 
  * [Syllabus and course description](syllabus/syllabus.pdf)
- * Homework 1: to be posted
-
+ * [Homework 1](homework/Astr324-S17-HW1.ipynb)
 
 ## Reference textbook
 [Ivezić, Connolly, VanderPlas & Gray: Statistics, Data Mining, and Machine Learning in Astronomy:
