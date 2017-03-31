@@ -12,6 +12,7 @@
 ## Class Materials
 
  * [Syllabus and course description](syllabus/syllabus.pdf)
+ * [Lectures](notebooks/README.md)
  * [Homework 1](homeworks/Astr324-S17-HW1.ipynb)
 
 ## Reference textbook
