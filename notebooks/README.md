@@ -10,4 +10,8 @@
  * Lecture 2: [Getting Started with Git etc.](Week-1-Thu.ipynb)
  * Lecture 3: [Introduction to Probability & Statistics. I](Week-2-Tue.ipynb)
  * Lecture 4: [Introduction to Probability & Statistics. II](Week-2-Thu.ipynb)
+ * Lecture 5: [Maximum Likelihood and Applications in Astronomy. I](Week-3-Tue.ipynb)
+ * Lecture 6: [Maximum Likelihood and Applications in Astronomy. II](Week-3-Thu.ipynb)
+ * Lecture 7: [Introduction to Bayesian Inference](Week-4-Tue.ipynb)
+ * Lecture 8: [Model Selection in Bayesian Framework](Week-4-Thu.ipynb)
 
