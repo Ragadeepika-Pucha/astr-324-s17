@@ -21,4 +21,4 @@
  * Lecture 13: [Databases. I](Week-7-Tue/Week-7-Tue-Thu.pdf)
  * Lecture 14: [Databases. II](Week-7-Tue/Week-7-Tue-Thu.pdf)
  * Lecture 15: [Principal Component Analysis](Week-8-Tue.key)
- * Lecture 16: [Regression ](Week-8-Thu.key) [notebook](Week-8-Thu.ipynb)
+ * Lecture 16: [Regression ](Week-8-Thu.key) [(notebook)](Week-8-Thu.ipynb)
