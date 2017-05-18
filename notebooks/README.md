@@ -16,4 +16,9 @@
  *  Lecture 8: [Model Selection in Bayesian Framework](Week-4-Thu.ipynb)
  *  Lecture 9: [Parameter estimation and model selection with MCMC. I](Week-5-Tue.ipynb)
  * Lecture 10: [Parameter estimation and model selection with MCMC. II](Week-5-Thu.ipynb)
-
+ * Lecture 11: [Time Series Analysis. I](Week-6-Tue.ipynb)
+ * Lecture 12: [Time Series Analysis. II](Week-6-Thu.ipynb)
+ * Lecture 13: [Databases. I](Week-7-Tue/Week-7-Tue-Thu.pdf)
+ * Lecture 14: [Databases. II](Week-7-Tue/Week-7-Tue-Thu.pdf)
+ * Lecture 15: [Principal Component Analysis](Week-8-Tue.key)
+ * Lecture 16: [Regression](Week-8-Thu.key)[notebook](Week-8-Thu.ipynb)
