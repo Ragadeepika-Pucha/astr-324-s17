@@ -22,3 +22,7 @@
  * Lecture 14: [Databases. II](Week-7-Tue/Week-7-Tue-Thu.pdf)
  * Lecture 15: [Principal Component Analysis](Week-8-Tue.key)
  * Lecture 16: [Regression ](Week-8-Thu.key) [(notebook)](Week-8-Thu.ipynb)
+ * Lecture 17: [Density Estimation. I](Week-9-Tue.pdf)
+ * Lecture 18: [Density Estimation. II](Week-9-Thu.pdf) 
+ * Lecture 19: [Unsupervised Classification](Week-10-Tue.key)[(notebook)](Week-10-Tue.ipynb)
+ * Lecture 20: [Supervised Classification](Week-10-Thu.key)[(notebook)](Week-10-Thu.ipynb)
